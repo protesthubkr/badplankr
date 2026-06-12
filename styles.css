@@ -54,6 +54,7 @@ a {
 
 h1 {
   margin: 24px 0 0;
+  font-family: "Malgun Gothic", sans-serif;
   font-size: clamp(38px, 8vw, 74px);
   line-height: 1;
   font-weight: 800;
